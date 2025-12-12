@@ -1,5 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on Agentic AI<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning FastAPI
+# 👋 Hey, I'm Sooraj
+
+🚀 Engineering student (CSE–IT @ REVA University)
+💡 Building skills across DSA, Competitive Programming, AI/ML, FastAPI, LangChain, and Web Development
+🔥 Grinding daily to become a full-stack + AI engineer with strong problem-solving skills
+
+💻 What I Do
+
+Practicing DSA & CP (CodeChef ★★ | 400+ problems | sharpening problem-solving)
+
+Learning Machine Learning, Generative AI, LangChain, LangGraph
+
+Building backend with FastAPI
+
+Exploring n8n automation, modern frontend, and research tools
+
+Working on projects like:
+Smart Research Assistant, automated front-end tools, AI-powered apps
+
+⚡ Current Focus
+
+Strengthening recursion → DP, Trees, Graphs
+
+Completing ML + DL roadmap
+
+Mastering FastAPI + LangChain for AI apps
+
+🛠 Tech Stack
+
+Languages: C++, Python, JavaScript
+Backend: FastAPI, Node.js
+Frontend: React, Next.js (learning), Tailwind
+AI/ML: NumPy, Pandas, Scikit-Learn, LangChain, LangGraph
+Tools: Git, Docker, n8n, Postman
+
+📈 Goals
+
+Crack placements with strong DSA + projects
+
+Build advanced AI systems end-to-end
+
+Become a top-tier problem solver and developer
+
+🌐 Connect
+
+Always open to collaboration, feedback, or just tech talk.
 
 
 # 💻 Tech Stack:
