@@ -23,9 +23,7 @@
 
 Strengthening Recursion → DP, Trees, Graphs
 
-Completing ML → DL roadmap
-
-Mastering FastAPI + LangChain + LangGraph
+Mastering FastAPI + LangChain + LangGraph + n8n
 
 Building AI-powered backend systems
 
