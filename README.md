@@ -1,4 +1,4 @@
-div align="center">🚀 <b>Hey, I'm Sooraj</b></div>
+<div align="center">🚀 <b>Hey, I'm Sooraj</b></div>
 <div align="center"> <b>SDE Intern @HealthEdge</b> • <b>AI & Web Dev Enthusiast</b> • <b>DSA & CP Grinder</b> </div> <br/>
 🔥 <b>About Me</b>
 <div align="center"> <b>SDE Intern @HealthEdge</b> • <b>AI & Web Dev Enthusiast</b> • <b>DSA</b> </div> <br/>
