@@ -1,12 +1,23 @@
-<div align="center">🚀 <b>Hey, I'm Sooraj</b></div>
-<div align="center"> <b>SDE Intern @HealthEdge</b> • <b>AI & Web Dev Enthusiast</b> • <b>DSA & CP Grinder</b> </div> <br/>
-<b>About Me :</b> 
-     Portfolio : https://sooraj-hegde.vercel.app
-     Passionate about DSA, AI, Web Development
-     Actively building AI-powered tools & automation workflows
-     Solved 500+ DSA problems on various Platforms
-     Exploring Generative AI, LangGraph, Deep Learning
-     Goal: Become a full-stack + AI engineer with strong problem-solving skills
+<div align="center">
+
+# Hey, I'm Sooraj
+
+**SDE Intern @ HealthEdge** • **AI & Web Development Enthusiast** • **DSA & Competitive Programming**
+
+</div>
+
+<div align="left">
+
+**About Me**
+
+- **Portfolio:** https://sooraj-hegde.vercel.app
+- Passionate about Data Structures & Algorithms, AI, and Web Development
+- Building AI-powered applications and automation workflows
+- Solved **500+ DSA problems** across multiple platforms
+- Exploring Generative AI, LangGraph, and Deep Learning
+- **Goal:** Become a Full-Stack + AI Engineer with strong problem-solving skills
+
+</div>
 
 # Connect
 
