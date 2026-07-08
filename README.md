@@ -1,29 +1,22 @@
-# About Me
+div align="center">🚀 <b>Hey, I'm Sooraj</b></div>
+<div align="center"> <b>SDE Intern @HealthEdge</b> • <b>AI & Web Dev Enthusiast</b> • <b>DSA & CP Grinder</b> </div> <br/>
+🔥 <b>About Me</b>
+<div align="center"> <b>SDE Intern @HealthEdge</b> • <b>AI & Web Dev Enthusiast</b> • <b>DSA</b> </div> <br/>
+ <b>About Me</b>
 
-**Currently Working On**
-- ClinicFlow – Production-grade Spring Boot REST API
-- Data Structures & Algorithms (Trees, Graphs, Dynamic Programming) for interviews and competitive programming
+👨‍💻 Passionate about DSA, Competitive Programming, Machine Learning, FastAPI, LangChain, Web Development
+ Passionate about DSA, AI, FastAPI, LangChain, Web Development
 
-**Looking to Collaborate On**
-- Java Spring Boot backend projects
-- AI/LLM applications with LangChain & LangGraph
-- Open-source backend tools
+🚀 Actively building AI-powered tools & automation workflows
+ Actively building AI-powered tools & automation workflows
 
-**Currently Learning**
-- Spring Boot & Hibernate
-- Advanced Data Structures & Algorithms
-- Clean Architecture
-- Microservices
-- System Design
+📚 Solved 400+ DSA problems & leveling up CP (CodeChef ★★)
+ Solved 500+ DSA problems
 
-**Areas of Interest**
-- Java
-- Spring Boot
-- REST APIs
-- LangChain & LangGraph
-- C++ for Data Structures & Algorithms
+🧠 Exploring Generative AI, LangGraph, Deep Learning
+ Exploring Generative AI, LangGraph, Deep Learning
 
----
+🎯 Goal: Become a full-stack + AI engineer with strong problem-solving skills
 
 # Connect
 
