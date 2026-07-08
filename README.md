@@ -70,9 +70,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=neurobyte-x&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-# GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=neurobyte-x&theme=radical&margin-w=10)
 
 ---
