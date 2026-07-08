@@ -1,5 +1,5 @@
 <div align="center">🚀 <b>Hey, I'm Sooraj</b></div>
-<div align="center"> <b>Engineering Student (CSE–IT @ REVA University)</b> • <b>AI & Web Dev Enthusiast</b> • <b>DSA & CP Grinder</b> </div> <br/>
+<div align="center"> <b>SDE Intern @HealthEdge</b> • <b>AI & Web Dev Enthusiast</b> • <b>DSA & CP Grinder</b> </div> <br/>
 🔥 <b>About Me</b>
 
 👨‍💻 Passionate about DSA, Competitive Programming, Machine Learning, FastAPI, LangChain, Web Development
